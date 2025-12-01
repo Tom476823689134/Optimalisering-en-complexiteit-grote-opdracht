@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaqu\\source\\repos\\Optimalisering-en-complexiteit-grote-opdracht\\InfoOptGroteOpdracht2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49F1216D-C9D1-4EDD-9235-C2548816F533}|InfoOptGroteOpdracht2025.csproj|c:\\users\\joaqu\\source\\repos\\optimalisering-en-complexiteit-grote-opdracht\\infooptgroteopdracht2025\\infooptgroteopdracht2025.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49F1216D-C9D1-4EDD-9235-C2548816F533}|InfoOptGroteOpdracht2025.csproj|solutionrelative:infooptgroteopdracht2025.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F1216D-C9D1-4EDD-9235-C2548816F533}|InfoOptGroteOpdracht2025.csproj|c:\\users\\joaqu\\source\\repos\\optimalisering-en-complexiteit-grote-opdracht\\infooptgroteopdracht2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F1216D-C9D1-4EDD-9235-C2548816F533}|InfoOptGroteOpdracht2025.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InfoOptGroteOpdracht2025.csproj",
+              "DocumentMoniker": "C:\\Users\\joaqu\\Source\\Repos\\Optimalisering-en-complexiteit-grote-opdracht\\InfoOptGroteOpdracht2025\\InfoOptGroteOpdracht2025.csproj",
+              "RelativeDocumentMoniker": "InfoOptGroteOpdracht2025.csproj",
+              "ToolTip": "C:\\Users\\joaqu\\Source\\Repos\\Optimalisering-en-complexiteit-grote-opdracht\\InfoOptGroteOpdracht2025\\InfoOptGroteOpdracht2025.csproj",
+              "RelativeToolTip": "InfoOptGroteOpdracht2025.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-01T16:54:51.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\source\\repos\\Optimalisering-en-complexiteit-grote-opdracht\\InfoOptGroteOpdracht2025\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\joaqu\\source\\repos\\Optimalisering-en-complexiteit-grote-opdracht\\InfoOptGroteOpdracht2025\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:53:35.196Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
