@@ -426,3 +426,7 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+/InfoOptGroteOpdracht2025/obj/InfoOptGroteOpdracht2025.csproj.nuget.dgspec.json
+/InfoOptGroteOpdracht2025/obj/project.nuget.cache
+/.vs/Optimalisering-en-complexiteit-grote-opdracht/v17/.wsuo
+/InfoOptGroteOpdracht2025/.vs/InfoOptGroteOpdracht2025/FileContentIndex/95c136b4-6623-497c-a33f-6a416312eb10.vsidx
